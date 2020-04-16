@@ -1,0 +1,6 @@
+name = "gyan-coudflare"
+type = "webpack"
+account_id = "2bf6f9b6186a7ee4c419040873d2f560"
+workers_dev = true
+route = ""
+zone_id = ""
